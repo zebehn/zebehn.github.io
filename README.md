@@ -63,8 +63,8 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ### **Conference/Workshop/Special Session Organizer**
 
-- *Publicity Co-Chair for* the 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN2022) [[homepage](http://www.smile.unina.it/ro-man2022/)]
-- *Lead Organizer for* Workshop on Social AI for Human-Robot Interaction of Human-Care Services, The 13th IEEE International Conference on Social Robotics (ICSR 2021), 2021 [[homepage](https://socialrobot-kros.github.io/workshop_socialhri_icsr2021/#)]
+- *Publicity Co-Chair for* the 31st IEEE International Conference on Robot & Human Interactive Communication ([RO-MAN2022](http://www.smile.unina.it/ro-man2022/))
+- *Lead Organizer for* Workshop on Social AI for Human-Robot Interaction of Human-Care Services, The 13th IEEE International Conference on Social Robotics ([ICSR 2021](https://www.colips.org/conferences/icsr2021/wp/)) [[workshop homepage](https://socialrobot-kros.github.io/workshop_socialhri_icsr2021/#)]
 - *Program Committee Associate Editor for* the 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN2021)
 - *Program Committee Associate Editor for* the 30th IEEE International Conference on Robot & Human Interactive Communication (RO-MAN2020)
 - *Lead Organizer for* Workshop on Social Human-Robot Interaction of Human-Care Services, The 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2020), 2020
