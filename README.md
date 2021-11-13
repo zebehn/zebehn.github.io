@@ -1,5 +1,7 @@
 # **Minsu Jang**
 
+<img src="minsujang_square.jpg" width="150"/>
+
 ## **CONTACT INFORMATION**
 
 Human-Robot Interaction Research Team<br/>
