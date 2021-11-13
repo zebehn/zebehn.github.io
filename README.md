@@ -61,14 +61,12 @@ IEEE Robotics and Automation Letters (2020 - )
 
 - Special Issue on Social Human-Robot Interaction for Human-Care Robots (2021)<br/>Journal: Intelligent Service Robotics (Springer) [[guest editorial](https://link.springer.com/article/10.1007/s11370-021-00376-5)]
 
-### **Program Committee Associate Editor**
-
-- International Conference on Robot and Human Interactive Communication (RO-MAN 2019-2021)
-
 ### **Conference/Workshop/Special Session Organizer**
 
 - *Publicity Co-Chair for* the 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN2022) [[homepage](http://www.smile.unina.it/ro-man2022/)]
 - *Lead Organizer for* Workshop on Social AI for Human-Robot Interaction of Human-Care Services, The 13th IEEE International Conference on Social Robotics (ICSR 2021), 2021 [[homepage](https://socialrobot-kros.github.io/workshop_socialhri_icsr2021/#)]
+- *Program Committee Associate Editor for* the 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN2021)
+- *Program Committee Associate Editor for* the 30th IEEE International Conference on Robot & Human Interactive Communication (RO-MAN2020)
 - *Lead Organizer for* Workshop on Social Human-Robot Interaction of Human-Care Services, The 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2020), 2020
 - *Organizing Committee Member for* Special Session on Social Human-Robot Interaction of Service Robots, 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2019), 2019
 - *Organizing Committee Member for* Workshop on Social Human-Robot Interaction of Human-care Service Robots, 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2019), 2019
