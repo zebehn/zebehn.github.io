@@ -1,6 +1,6 @@
 # **Minsu Jang**
 
-<img src="minsujang_square.jpg" width="150"/>
+<img src="minsujang_square.png" width="150"/>
 
 ## **CONTACT INFORMATION**
 
