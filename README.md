@@ -55,7 +55,7 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ### **Associate Editor**
 
-IEEE Robotics and Automation Letters (2020 - )
+- IEEE Robotics and Automation Letters (2020 - )
 
 ### **Journal Special Issue Guest Editor**
 
