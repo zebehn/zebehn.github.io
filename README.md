@@ -65,9 +65,9 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 - *Publicity Co-Chair for* the 31st IEEE International Conference on Robot & Human Interactive Communication ([RO-MAN2022](http://www.smile.unina.it/ro-man2022/))
 - *Lead Organizer for* Workshop on Social AI for Human-Robot Interaction of Human-Care Services, The 13th IEEE International Conference on Social Robotics ([ICSR 2021](https://www.colips.org/conferences/icsr2021/wp/)) [[workshop homepage](https://socialrobot-kros.github.io/workshop_socialhri_icsr2021/#)]
-- *Program Committee Associate Editor for* the 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN2021)
-- *Program Committee Associate Editor for* the 30th IEEE International Conference on Robot & Human Interactive Communication (RO-MAN2020)
-- *Lead Organizer for* Workshop on Social Human-Robot Interaction of Human-Care Services, The 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2020), 2020
+- *Program Committee Associate Editor for* the 31st IEEE International Conference on Robot & Human Interactive Communication ([RO-MAN2021](https://ro-man2021.org))
+- *Program Committee Associate Editor for* the 30th IEEE International Conference on Robot & Human Interactive Communication ([RO-MAN2020](http://ro-man2020.unina.it))
+- *Lead Organizer for* Workshop on Social Human-Robot Interaction of Human-Care Services, The 29th IEEE International Conference on Robot and Human Interactive Communication ([RO-MAN2020](http://ro-man2020.unina.it)), 2020
 - *Organizing Committee Member for* Special Session on Social Human-Robot Interaction of Service Robots, 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2019), 2019
 - *Organizing Committee Member for* Workshop on Social Human-Robot Interaction of Human-care Service Robots, 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2019), 2019
 - *Organizing Committee Member for* Special Session on Social Human-Robot Interaction of Service Robots, 27th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2018), 2018
