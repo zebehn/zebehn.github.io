@@ -19,7 +19,7 @@ Rule/Ontology Modeling and Reasoning, Artificial General Intelligence
 ## **EDUCATION**
 
 **Ph.D. in Computer Science**, March 2015 – Korea Advanced Institute of Science and Technology.<br/> *Dissertation Title: Adaptive acceleration-based gesture recognition using meta-cognitive framework.* Hyun Seung Yang, Chair<br/>
-**M.A. in Computer Science**, March 1994 – Sogang University
+**M.A. in Computer Science**, March 1994 – Sogang University<br/>
 **B.A. in Computer Science**, March 1992 – Sogang University
 
 ## **AFFILIATION**
