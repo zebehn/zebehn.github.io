@@ -1,4 +1,4 @@
-# **Minsu Jang**
+# **Minsu Jang (장민수)**
 
 <img src="minsujang_square.png" width="150"/>
 
