@@ -78,5 +78,3 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 - *Organizing Committee Member for* Workshop on Social Robot Intelligence, International Conference on Social Robotics (ICSR 2017), 2017
 
 ### **Talks/Press**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7PExj_v-ZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
