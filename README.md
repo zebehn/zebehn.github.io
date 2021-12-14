@@ -79,6 +79,6 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ### **Talks/Press**
 
-- *Introducing Human-care Robots* (YTN Science TV, *aired on Nov. 17, 2021*)
+#### Introducing Human-care Robots *(YTN Science TV, aired on Nov. 17, 2021*)
 
 [![Introducing Human-care Robots (YTN Science TV)](https://img.youtube.com/vi/_JOcWLmn-UQ/0.jpg)](https://www.youtube.com/watch?v=_JOcWLmn-UQ "Introducing Human-care Robots (YTN Science TV)")
