@@ -78,5 +78,4 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 - *Organizing Committee Member for* Workshop on Social Robot Intelligence, International Conference on Social Robotics (ICSR 2017), 2017
 
 ### **Talks/Press**
-https://youtu.be/_JOcWLmn-UQ
 [![Introducing Human-care Robots (YTN Science TV)](https://img.youtube.com/vi/_JOcWLmn-UQ/0.jpg)](https://www.youtube.com/watch?v=_JOcWLmn-UQ "Introducing Human-care Robots (YTN Science TV)")
