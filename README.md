@@ -76,3 +76,7 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 - *Organizing Committee Member for* Workshop on Social Human-Robot Interaction of Human-Care Service Robots, International Conference on 13th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI 2018), 2018
 - *Organizing Committee Member for* Workshop on Social Human-Robot Interaction of Human-care Service Robots, International Conference on Social Robotics (ICSR 2018), 2018
 - *Organizing Committee Member for* Workshop on Social Robot Intelligence, International Conference on Social Robotics (ICSR 2017), 2017
+
+### **Talks/Press**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7PExj_v-ZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
