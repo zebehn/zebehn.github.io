@@ -79,4 +79,4 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ### **Talks/Press**
 https://youtu.be/_JOcWLmn-UQ
-[![Introducing Human-care Robots (YTN Science TV)](//img.youtube.com/vi/_JOcWLmn-UQ/0.jpg)](//www.youtube.com/watch?v=_JOcWLmn-UQ "Introducing Human-care Robots (YTN Science TV)")
+[![Introducing Human-care Robots (YTN Science TV)](https://img.youtube.com/vi/_JOcWLmn-UQ/0.jpg)](https://www.youtube.com/watch?v=_JOcWLmn-UQ "Introducing Human-care Robots (YTN Science TV)")
