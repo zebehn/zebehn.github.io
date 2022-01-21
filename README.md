@@ -11,7 +11,7 @@ Gajeong-ro 218, Yuseong-gu<br/>
 Daejeon-si, 34129<br/>
 South Korea<br/>
 (email) minsu[at]etri.re.kr<br/>
-(google scholar) https://scholar.google.com/citations?user=ggkuHCcAAAAJ
+(google scholar) [https://scholar.google.com/citations?user=ggkuHCcAAAAJ](https://scholar.google.com/citations?user=ggkuHCcAAAAJ)
 
 ## **RESEARCH INTERESTS**
 
