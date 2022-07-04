@@ -61,11 +61,13 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ### **Journal Special Issue Guest Editor**
 
+- Editorial member for Research Topic "Social Human-Robot Interaction (sHRI) of Human-Care Service Robots", Frontiers in Robotics and AI (2021-2022) [[link](https://www.frontiersin.org/research-topics/16127/social-human-robot-interaction-shri-of-human-care-service-robots)]
 - Special Issue on Social Human-Robot Interaction for Human-Care Robots (2021)<br/>Journal: Intelligent Service Robotics (Springer) [[guest editorial](https://link.springer.com/article/10.1007/s11370-021-00376-5)]
 
 ### **Conference/Workshop/Special Session Organizer**
 
-- *Publication Co-Chair for* the 32nd IEEE International Conference on Robot & Human Interactive Communication (RO-MAN 2023)
+- *Publication Co-Chair for* the 32nd IEEE International Conference on Robot & Human Interactive Communication (RO-MAN2023)
+
 - *Program Committee Associate Editor for* The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems ([IROS2022](https://iros2022.org))
 - *Publicity Co-Chair for* the 31st IEEE International Conference on Robot & Human Interactive Communication ([RO-MAN2022](http://www.smile.unina.it/ro-man2022/))
 - *Lead Organizer for* Workshop on Social AI for Human-Robot Interaction of Human-Care Services, The 13th IEEE International Conference on Social Robotics ([ICSR 2021](https://www.colips.org/conferences/icsr2021/wp/)) [[workshop homepage](https://socialrobot-kros.github.io/workshop_socialhri_icsr2021/#)]
@@ -81,6 +83,13 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ### **Talks/Press**
 
-#### Introducing Human-care Robots *(YTN Science TV, aired on Nov. 17, 2021*)
+- 클라우드 로봇 지능 + 열린 세계와 지속 성장 패러다임 *(KRnet2022, 2022년 6월 28일)* [pdf](files/cloud-robot-intelligence-open-world-cognition_minsujang_220628.pdf)
 
+- 클라우드 로봇과 Robot-as-a-Service(RaaS) 소개 *(KIRO 세미나, 2022년 5월 31일)* [pdf](files/cloud-robot-and-raas_minsujang_220531.pdf)
+  
+- 휴먼케어로봇 서비스와 실증: 돌봄로봇으로서 페퍼(Pepper) 로봇의 활용 *(국립재활원 세미나, 2022년 4월 18일)* [pdf](files/human-care-robot_minsujang_220418.pdf)
+
+- Introduction to Research Efforts on Robot AI for Elderly-Care *(Talk at Gentiane Ventures' Lab, Jan. 27th 2022)* [pdf](files/g.venturelab_minsujang_20220126.pdf)
+
+- 로봇이 아닌 가족: 고령자 돕는 "휴먼케어 로봇" *(YTN 사이언스 TV '과학의 달인' 인터뷰, 2021년 11월 17일)* [기사링크](https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&s_hcd=0031&key=202111181613377165)
 [![Introducing Human-care Robots (YTN Science TV)](https://img.youtube.com/vi/_JOcWLmn-UQ/0.jpg)](https://www.youtube.com/watch?v=_JOcWLmn-UQ "Introducing Human-care Robots (YTN Science TV)")
