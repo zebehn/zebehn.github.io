@@ -1,4 +1,4 @@
-@startuml minsu-hifi-220814
+@startuml minsu-hifi-220814v1
 object "[DAC] DAC8 Stereo" as dac
 dac : Made by: Okto
 dac : Accessory: Centum 9 Resonator by HIFIStay
