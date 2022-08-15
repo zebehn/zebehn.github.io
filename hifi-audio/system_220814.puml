@@ -1,0 +1,103 @@
+@startuml minsu-hifi-220814
+object "[DAC] DAC8 Stereo" as dac
+dac : Made by: Okto
+dac : Accessory: Centum 9 Resonator by HIFIStay
+dac : Board: Finale by Reference Club
+
+object "[Turntable] AT-LP120XUSB" as turntable
+turntable : Made by: Audio Technica
+turntable : Cartridge: Hana-EL
+
+object "[Preamp] Pre1 G2" as preamp
+preamp : Made by: Audionet
+preamp : Board: Finale by Reference Club
+
+object "[Poweramp] T9.3" as poweramp
+poweramp : Made by: Transaudio
+poweramp : Board: Finale by Reference Club
+
+object "[Phonoamp] CAP-1002" as phononamp
+phononamp : Made by: BAKOON
+
+object "Bakoon Power Adaptor" as adaptor1
+adaptor1 : Made by: BAKOON
+
+object "Power Adaptor(12V)" as adaptor2
+adaptor2 : Made by: Audio Technica
+
+object "Power Adaptor(5V)" as adaptor3
+adaptor3 : Made by: Seven Layer
+
+object "Power Adaptor(5V)" as adaptor4
+adaptor4 : Made by: Samsung
+
+object "[Speaker] PureSystem MK2" as speaker
+speaker : Made by: AudioMachina
+
+object "[MultiTap] Lunex SE" as multitap1
+multitap1 : Made by: Reference Club
+
+object "[MultiTap] Lunex" as multitap2
+multitap2 : Made by: Reference Club
+
+object "DC Filter" as dcfilter1
+dcfilter1 : Made by: Crystal Audio
+
+object "Stellar PowerPlant 3" as powerregenerator
+powerregenerator : Made by: PS Audio
+
+object "Wall PowerSocket" as wallpowersocket
+object "Wall Ethernet Socket" as walllansocket
+
+object "Wireless Router" as wirelessrouter
+wirelessrouter : Made by: ipTime
+
+object "LHY Network Switch" as netswitch
+
+object "Gigabit Media Converter SFP Transceiver" as fiberhub1
+fiberhub1 : Made by: Seven Layer
+
+object "Gigabit Media Converter SFP Transceiver" as fiberhub2
+fiberhub2 : Made by: Seven Layer
+
+object "Battery Pack" as batterypack
+
+dac --> preamp : Nordost Valhalla 1 XLR (1m)
+preamp --> poweramp : Nordost Frey 2 XLR (0.6m)
+poweramp --> speaker : Nordost Frey (2m)
+phononamp --> preamp : Nordost Frey 2 RCA (1m)
+turntable --> phononamp: Nordost Frey RCA (1m)
+
+wallpowersocket --> powerregenerator : Odin Fake (3m)
+powerregenerator --> dac : YooSungWoon
+powerregenerator --> preamp: YooSungWoon
+powerregenerator --> poweramp: YooSungWoon
+
+wallpowersocket --> multitap1: Golden Strada PS#308
+
+dcfilter1 --> multitap2: Bundle PowerCable
+multitap2 --> adaptor2: Self
+adaptor2 --> turntable: 12V
+multitap2 --> adaptor3: Self
+multitap2 --> adaptor4: Self
+adaptor4 --> batterypack: USB3 Cable
+
+multitap1 --> speaker: Odin Fake (2m)
+multitap1 --> adaptor1: Odin Fake (1.5m)
+multitap1 --> netswitch: Odin Fake (1.5m)
+multitap1 --> dcfilter1: Bundle (1.5m)
+adaptor1 --> phononamp: 5V DC
+batterypack --> wirelessrouter: USB-DC Cable (5V)
+batterypack --> fiberhub2: USB-DC Cable (5V)
+adaptor3 --> fiberhub1: 5V
+
+
+dac --> dac: Entreq Konstantin USB Cable
+
+walllansocket --> wirelessrouter: LAN Cable
+wirelessrouter --> netswitch: Audioquest RJ45-G Cat5e LAN Cable
+netswitch --> fiberhub1: Vention LAN Cable
+fiberhub1 --> fiberhub2: Fiber Cable
+fiberhub2 --> dac: AIM NA5 LAN Cable
+
+@enduml

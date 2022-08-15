@@ -1,0 +1,16 @@
+@startuml minau-hifi
+object "DAC8 Stereo" as dac
+dac : by Okto
+object "C9.3" as preamp
+preamp : Replica of MBL6010D
+preamp : by Transaudio
+object "T9.3" as poweramp
+poweramp : Replica of Burmester 909
+poweramp : by Transaudio
+object "PureSystem MK2" as speaker
+speaker : by AudioMachina
+
+dac --> preamp : Nordost Valhalla1 XLR
+preamp --> poweramp : Nordost Frey2 XLR
+poweramp --> speaker : "Nordost Frey"
+@enduml
