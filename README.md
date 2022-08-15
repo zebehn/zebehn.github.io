@@ -93,3 +93,9 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 - 로봇이 아닌 가족: 고령자 돕는 "휴먼케어 로봇" *(YTN 사이언스 TV '과학의 달인' 인터뷰, 2021년 11월 17일)* [기사링크](https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&s_hcd=0031&key=202111181613377165)
 [![Introducing Human-care Robots (YTN Science TV)](https://img.youtube.com/vi/_JOcWLmn-UQ/0.jpg)](https://www.youtube.com/watch?v=_JOcWLmn-UQ "Introducing Human-care Robots (YTN Science TV)")
+
+## **Hifi-Systems**
+
+I own a hifi audio system and like to listen to music with it. Here are a list of profiles for my audio systems.
+
+- Audio System Profiles [link](hifi-audio/hifi-audio.md)
