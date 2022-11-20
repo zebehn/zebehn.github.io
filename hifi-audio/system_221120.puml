@@ -71,10 +71,10 @@ object "Gigabit Media Converter SFP Transceiver" as fiberhub2
 fiberhub2 : Made by: Seven Layer
 
 object "Gigabit Media Converter SFP Transceiver" as fiberhub3
-fiberhub1 : Made by: Seven Layer
+fiberhub3 : Made by: Seven Layer
 
 object "Gigabit Media Converter SFP Transceiver" as fiberhub4
-fiberhub2 : Made by: Seven Layer
+fiberhub4 : Made by: Seven Layer
 
 dac --> preamp : Nordost Valhalla 1 XLR (1m)
 preamp --> poweramp : Nordost Frey RCA (1m)
