@@ -37,7 +37,7 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 1.	Yoon, Youngwoo, Bok Cha, Joo-Haeng Lee, Minsu Jang, Jaeyeon Lee, Jaehong Kim, and Geehyuk Lee. "Speech gesture generation from the trimodal context of text, audio, and speaker identity." ACM Transactions on Graphics (TOG)39, no. 6 (2020): 1-16.
 1.	Jang, Minsu, Jaehong Kim, Yong–Ho Seo, and Hyun–Seung Yang. "Adaptive gesture tracking and recognition using acceleration sensors for a mobile device." International Journal of Wireless and Mobile Computing 8, no. 2 (2015): 183-193.
 
-### **Peer-reviewed International Conferences**
+### **International Conferences**
 
 1. Yoon, Youngwoo, Keunwoo Park, Minsu Jang, Jaehong Kim, and Geehyuk Lee. "SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents." In The 34th Annual ACM Symposium on User Interface Software and Technology, pp. 826-840. 2021.
 1. Jang, Jinhyeok, Dohyung Kim, Cheonshu Park, Minsu Jang, Jaeyeon Lee, and Jaehong Kim. "ETRI-activity3D: A large-scale RGB-D dataset for robots to recognize daily activities of the elderly." In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 10990-10997. IEEE, 2020.
@@ -45,6 +45,7 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 1. Yoon, Youngwoo, Woo-Ri Ko, Minsu Jang, Jaeyeon Lee, Jaehong Kim, and Geehyuk Lee. "Robots learn social skills: End-to-end learning of co-speech gesture generation for humanoid robots." In 2019 International Conference on Robotics and Automation (ICRA), pp. 4303-4309. IEEE, 2019.
 1. Ko, Woo-Ri, Youngwoo Yoon, Minsu Jang, Jaeyeon Lee, and Jaehong Kim. "End-to-End Learning-based Interaction Behavior Genera-tion for Social Robots." In Proc. Int. Conf. Social Robotics (ICSR), Qingdao, China. 2018.
 1. Jang, Minsu, Jaehong Kim, and Jaeyeon Lee. "Project AIR: Developing Artificial Social Intelligence for Human-Care Robots." In 2018 Workshop on Social Human-Robot Interaction for Human-care Robots, 2018.
+1. Jang, Minsu, Cheonshu Park, and Jaehong Kim. "Building a Schema for the Description of HRI Experiments", Workshop on Towards Standardized Experiments in HRI (IROS2015), 2015. [pdf](files/minsujang_MoWS_2015.pdf)
 1. Jang, Minsu, Jaehong Kim, and Byeong-Kyu Ahn. "A software framework design for social human-robot interaction." In 2015 12th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI), pp. 411-412. IEEE, 2015.
 1. Jang, Minsu, Cheonshu Park, and Hyun-Seung Yang. "Building an automated engagement recognizer based on video analysis." In 2014 9th ACM/IEEE International Conference on Human-Robot Interaction (HRI), pp. 182-183. IEEE, 2014.
 1. Jang, Minsu, Dae-Ha Lee, Jaehong Kim, and Youngjo Cho. "Identifying principal social signals in private student-teacher interactions for robot-enhanced education." In 2013 IEEE RO-MAN, pp. 621-626. IEEE, 2013.
