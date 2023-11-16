@@ -84,6 +84,8 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ### **Talks/Press**
 
+- Foundation Models for Robots *(Talk at GIST IIT, 2023-11-16)* [pdf](files/foundation-models-for-robots_minsujang_231116.pdf)
+
 - 클라우드 로봇 지능 + 열린 세계와 지속 성장 패러다임 *(KRnet2022, 2022년 6월 28일)* [pdf](files/cloud-robot-intelligence-open-world-cognition_minsujang_220628.pdf)
 
 - 클라우드 로봇과 Robot-as-a-Service(RaaS) 소개 *(KIRO 세미나, 2022년 5월 31일)* [pdf](files/cloud-robot-and-raas_minsujang_220531.pdf)
