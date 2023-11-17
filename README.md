@@ -1,6 +1,6 @@
 # **Minsu Jang (장민수)**
 
-<img src="minsujang_square.png" width="150"/>
+<img src="minsujang_2022.png" width="150"/>
 
 ## **CONTACT INFORMATION**
 
