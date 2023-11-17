@@ -32,6 +32,9 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ### **Peer-reviewed International Journals**
 
+1. Jang, Minsu, Ho Seok Ahn, and Jong-Suk Choi. "Editorial Introduction to Special Issue on Machine Learning for Social Human-Robot Interaction." International Journal of Social Robotics 15, no. 4 (2023): 581-582.
+1. Hellou, Mehdi, JongYoon Lim, Norina Gasteiger, Minsu Jang, and Ho Seok Ahn. "Technical Methods for Social Robots in Museum Settings: An Overview of the Literature." International Journal of Social Robotics 14, no. 8 (2022): 1767-1786.
+1. Jang, Minsu, JongSuk Choi, Ho Seok Ahn, and Chung Hyuk Park. "(Editorial) Social human-robot interaction (sHRI) of human-care service robots." Frontiers in Robotics and AI 9 (2022): 1064440.
 1. Hellou, Mehdi, Norina Gasteiger, Jong Yoon Lim, Minsu Jang, and Ho Seok Ahn. "Personalization and Localization in Human-Robot Interaction: A Review of Technical Methods." Robotics 10, no. 4 (2021): 120.
 1.	Ko, Woo-Ri, Minsu Jang, Jaeyeon Lee, and Jaehong Kim. "AIR-Act2Act: Human–human interaction dataset for teaching non-verbal social behaviors to robots." The International Journal of Robotics Research 40, no. 4-5 (2021): 691-697.
 1.	Yoon, Youngwoo, Bok Cha, Joo-Haeng Lee, Minsu Jang, Jaeyeon Lee, Jaehong Kim, and Geehyuk Lee. "Speech gesture generation from the trimodal context of text, audio, and speaker identity." ACM Transactions on Graphics (TOG)39, no. 6 (2020): 1-16.
@@ -39,6 +42,8 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ### **International Conferences**
 
+1. Shin, Minjung, Minsu Jang, Miyoung Cho, and Jeh-Kwang Ryu. "Uncertainty-Resolving Questions for Social Robots." In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction, pp. 226-230. 2023.
+1. Ko, Woo-Ri, Minsu Jang, Jaeyeon Lee, and Jaehong Kim. "Nonverbal Social Behavior Generation for Social Robots Using End-to-End Learning." arXiv preprint arXiv:2211.00930 (2022).
 1. Yoon, Youngwoo, Keunwoo Park, Minsu Jang, Jaehong Kim, and Geehyuk Lee. "SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents." In The 34th Annual ACM Symposium on User Interface Software and Technology, pp. 826-840. 2021.
 1. Jang, Jinhyeok, Dohyung Kim, Cheonshu Park, Minsu Jang, Jaeyeon Lee, and Jaehong Kim. "ETRI-activity3D: A large-scale RGB-D dataset for robots to recognize daily activities of the elderly." In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 10990-10997. IEEE, 2020.
 1. Ko, Woo-Ri, Jaeyeon Lee, Minsu Jang, and Jaehong Kim. "End-to-End Learning of Social Behaviors for Humanoid Robots." In 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1200-1205. IEEE, 2020.
@@ -62,13 +67,15 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ### **Journal Special Issue Guest Editor**
 
+- Special Issue on Machine Learning for Social Human-Robot Interaction, International Journal of Social Robotics (2023) [[link](https://link.springer.com/article/10.1007/s12369-023-00992-4)]
 - Editorial member for Research Topic "Social Human-Robot Interaction (sHRI) of Human-Care Service Robots", Frontiers in Robotics and AI (2021-2022) [[link](https://www.frontiersin.org/research-topics/16127/social-human-robot-interaction-shri-of-human-care-service-robots)]
 - Special Issue on Social Human-Robot Interaction for Human-Care Robots (2021)<br/>Journal: Intelligent Service Robotics (Springer) [[guest editorial](https://link.springer.com/article/10.1007/s11370-021-00376-5)]
 
 ### **Conference/Workshop/Special Session Organizer**
 
-- *Publication Co-Chair for* the 32nd IEEE International Conference on Robot & Human Interactive Communication (RO-MAN2023)
-
+- *Program Committee Member for* the 2024 International Symposium on Technological Advances in Human-Robot Interaction (TAHRI), 2024.
+- *Program Co-Chair for* the 33rd 2024 IEEE International Conference on Robot & Human Interactive Communication
+- *Publication Co-Chair for* the 32nd IEEE International Conference on Robot & Human Interactive Communication ([RO-MAN2023](https://ro-man2023.org/))
 - *Program Committee Associate Editor for* The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems ([IROS2022](https://iros2022.org))
 - *Publicity Co-Chair for* the 31st IEEE International Conference on Robot & Human Interactive Communication ([RO-MAN2022](http://www.smile.unina.it/ro-man2022/))
 - *Lead Organizer for* Workshop on Social AI for Human-Robot Interaction of Human-Care Services, The 13th IEEE International Conference on Social Robotics ([ICSR 2021](https://www.colips.org/conferences/icsr2021/wp/)) [[workshop homepage](https://socialrobot-kros.github.io/workshop_socialhri_icsr2021/#)]
