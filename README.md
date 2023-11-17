@@ -4,8 +4,8 @@
 
 ## **CONTACT INFORMATION**
 
-Human-Robot Interaction Research Team<br/>
-Intelligent Robotics Research Division<br/>
+Social Robotics Research Team<br/>
+Mobility-Robot Research Division<br/>
 Electronics and Telecommunications Research Institute (ETRI)<br/>
 Gajeong-ro 218, Yuseong-gu<br/>
 Daejeon-si, 34129<br/>
