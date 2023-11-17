@@ -75,6 +75,7 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 - *Program Committee Member for* the 2024 International Symposium on Technological Advances in Human-Robot Interaction (TAHRI), 2024.
 - *Program Co-Chair for* the 33rd 2024 IEEE International Conference on Robot & Human Interactive Communication
+- *Exhibition Co-Chair for* the 2023 International Conference on Social Robotics (ICSR 2023) ([ICSR2023](https://icsr23.qa/))
 - *Publication Co-Chair for* the 32nd IEEE International Conference on Robot & Human Interactive Communication ([RO-MAN2023](https://ro-man2023.org/))
 - *Program Committee Associate Editor for* The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems ([IROS2022](https://iros2022.org))
 - *Publicity Co-Chair for* the 31st IEEE International Conference on Robot & Human Interactive Communication ([RO-MAN2022](http://www.smile.unina.it/ro-man2022/))
