@@ -40,8 +40,10 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 1.	Yoon, Youngwoo, Bok Cha, Joo-Haeng Lee, Minsu Jang, Jaeyeon Lee, Jaehong Kim, and Geehyuk Lee. "Speech gesture generation from the trimodal context of text, audio, and speaker identity." ACM Transactions on Graphics (TOG)39, no. 6 (2020): 1-16.
 1.	Jang, Minsu, Jaehong Kim, Yong–Ho Seo, and Hyun–Seung Yang. "Adaptive gesture tracking and recognition using acceleration sensors for a mobile device." International Journal of Wireless and Mobile Computing 8, no. 2 (2015): 183-193.
 
-### **International Conferences**
+### **International Conferences (+ arXiv preprints)**
 
+1. Kim, Taewoo, Donghyung Kim, Minsu Jang, and Jaehong Kim. "Uncertainty-Aware Shared Autonomy System with Hierarchical Conservative Skill Inference." arXiv preprint arXiv:2312.02488 (2023). ([arxiv](https://arxiv.org/abs/2312.02488))
+1. Jang, Minsu, Youngwoo Yoon, Jaewoo Choi, Hyobin Ong, and Jaehong Kim. "A Structured Prompting based on Belief-Desire-Intention Model for Proactive and Explainable Task Planning." In Proceedings of the 11th International Conference on Human-Agent Interaction, pp. 375-377. 2023. ([pdf](https://dl.acm.org/doi/pdf/10.1145/3623809.3623930))
 1. Shin, Minjung, Minsu Jang, Miyoung Cho, and Jeh-Kwang Ryu. "Uncertainty-Resolving Questions for Social Robots." In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction, pp. 226-230. 2023.
 1. Ko, Woo-Ri, Minsu Jang, Jaeyeon Lee, and Jaehong Kim. "Nonverbal Social Behavior Generation for Social Robots Using End-to-End Learning." arXiv preprint arXiv:2211.00930 (2022).
 1. Yoon, Youngwoo, Keunwoo Park, Minsu Jang, Jaehong Kim, and Geehyuk Lee. "SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents." In The 34th Annual ACM Symposium on User Interface Software and Technology, pp. 826-840. 2021.
