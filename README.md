@@ -15,8 +15,7 @@ South Korea<br/>
 
 ## **RESEARCH INTERESTS**
 
-Social Human-Robot Interaction, Robot Software Framework, Machine Learning, 
-Rule/Ontology Modeling and Reasoning, Artificial General Intelligence
+Social Human-Robot Interaction, Robot Software Framework, Foundation Models for Robotics, Machine Learning, Rule/Ontology Modeling and Reasoning, Artificial General Intelligence,
 
 ## **EDUCATION**
 
