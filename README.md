@@ -60,6 +60,10 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 1. Jang, Minsu, Jaehong Kim, Meekyoung Lee, and Joo-Chan Sohn. "Ubiquitous robot simulation framework and its applications." In IROS 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 4077-4082. IEEE, 2005.
 1. Jang, Minsu, and Joo-Chan Sohn. "Bossam: An extended rule engine for OWL inferencing." In International Workshop on Rules and Rule Markup Languages for the Semantic Web, pp. 128-138. Springer, Berlin, Heidelberg, 2004.
 
+### 국내 학술지
+
+1. 장민수, 김재홍, "대형언어모델로 진화하는 로봇 지능", 한국통신학회 정보와통신, 제40권 5호, 2023. [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11402805)
+
 ## **PROFESSIONAL SERVICES**
 
 ### **Associate Editor**
