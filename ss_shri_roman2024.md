@@ -38,7 +38,7 @@ Topics of interest include but not limited to:
 
 ## Important Dates
 
-- Initial Paper Submission: March 10, 2024
+- Initial Paper Submission: March 20, 2024 (extended)
 - Notification of Acceptance: May 10, 2024
 - Final Paper Submission: June 07, 2024
 
