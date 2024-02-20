@@ -1,11 +1,17 @@
 # IEEE RO-MAN 2024 Special Session on Social Human-Robot Interaction of Human-care Service Robots: <br/> *Exploring Foundation Models in Social Human-Robot Interaction*
 
+- Session Code: 91r6n
+
 ## Aim and Scope
 
 Service robots have transcended the introductory phase and are now widely deployed, playing a pivotal role in enhancing our daily lives. Marking the fourth installment of this influential special session at RO-MAN 2024, we continue our commitment to advancing the field of social human-robot interaction. This year, we are placing a special emphasis on the application of foundation models in social human-robot interactions, a rapidly evolving area that promises to revolutionize our understanding and implementation of socially intelligent robots. The special session aims to foster a pioneering exploration into how foundation models are reshaping the landscape of social interactions between humans and robots. Our discussion will encompass:
-1. Innovative Technical Implementations: Delving into how foundation models enhance the capabilities of social robots for more natural and effective human-robot interactions.
-2. Design, Functionality, and Behavior: Examining the impact of foundation models on the design and functionality of service robots, ensuring they are user-friendly and exhibit advanced social intelligence.
-3. Human Behavioral Insights and Expectations: Understanding the human side of the equation — how people perceive, interact with, and adapt to robots powered by foundation models.
+
+- Innovative Technical Implementations: Delving into how foundation models enhance the capabilities of social robots for more natural and effective human-robot interactions.
+
+- Design, Functionality, and Behavior: Examining the impact of foundation models on the design and functionality of service robots, ensuring they are user-friendly and exhibit advanced social intelligence.
+
+- Human Behavioral Insights and Expectations: Understanding the human side of the equation — how people perceive, interact with, and adapt to robots powered by foundation models.
+
 
 In addition to these focus areas, we also warmly welcome papers addressing general issues in social human-robot interaction. This broadens our scope to include a wide range of topics and perspectives, enriching the discourse and development in the field.
 
@@ -39,7 +45,7 @@ Topics of interest include but not limited to:
 ## Submission Guidelines
 
 - Paper Templates: [LaTex](https://ras.papercept.net/conferences/support/tex.php), [Word](https://ras.papercept.net/conferences/support/word.php)
-- Submission: [Submit](https://ras.papercept.net/conferences/scripts/start.pl)
+- Submission: [Submit](https://ras.papercept.net/conferences/scripts/start.pl) "*You should select the session code **91r6n** when submitting your paper.*"
 
 ## Organizers
 
