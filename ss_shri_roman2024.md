@@ -1,9 +1,6 @@
-# <p style="text-align: center;">IEEE RO-MAN 2024 Special Session</p>
-# <p style="text-align: center;">Social Human-Robot Interaction of Human-care Service Robots: <br/> *Exploring Foundation Models in Social Human-Robot Interaction*</p>
+# IEEE RO-MAN 2024 Special Session on Social Human-Robot Interaction of Human-care Service Robots: <br/> *Exploring Foundation Models in Social Human-Robot Interaction*
 
 ## Aim and Scope
-
-<span style="font-size:1.2em;">
 
 Service robots have transcended the introductory phase and are now widely deployed, playing a pivotal role in enhancing our daily lives. Marking the fourth installment of this influential special session at RO-MAN 2024, we continue our commitment to advancing the field of social human-robot interaction. This year, we are placing a special emphasis on the application of foundation models in social human-robot interactions, a rapidly evolving area that promises to revolutionize our understanding and implementation of socially intelligent robots. The special session aims to foster a pioneering exploration into how foundation models are reshaping the landscape of social interactions between humans and robots. Our discussion will encompass:
 1. Innovative Technical Implementations: Delving into how foundation models enhance the capabilities of social robots for more natural and effective human-robot interactions.
@@ -32,7 +29,6 @@ Topics of interest include but not limited to:
 - Dialogue based interaction
 - User evaluation
 - Applications such as healthcare, receptionist, education
-</span>
 
 ## Important Dates
 
