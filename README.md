@@ -41,6 +41,8 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ### **International Conferences (+ arXiv preprints)**
 
+1. Yun, Woo-han, Minsu Jang, and Jaehong Kim. "Model Comparison for Fast Domain Adaptation in Table Service Scenario." arXiv preprint arXiv:2403.05092 (2024). ([arxiv](https://arxiv.org/abs/2403.05092))
+1. Choi, Jae-Woo, Youngwoo Yoon, Hyobin Ong, Jaehong Kim, and Minsu Jang. "LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents." In The Twelfth International Conference on Learning Representations. 2023. ([Open Review](https://openreview.net/forum?id=ADSxCpCu9s), [github](https://github.com/lbaa2022/LLMTaskPlanning))
 1. Kim, Taewoo, Donghyung Kim, Minsu Jang, and Jaehong Kim. "Uncertainty-Aware Shared Autonomy System with Hierarchical Conservative Skill Inference." arXiv preprint arXiv:2312.02488 (2023). ([arxiv](https://arxiv.org/abs/2312.02488))
 1. Jang, Minsu, Youngwoo Yoon, Jaewoo Choi, Hyobin Ong, and Jaehong Kim. "A Structured Prompting based on Belief-Desire-Intention Model for Proactive and Explainable Task Planning." In Proceedings of the 11th International Conference on Human-Agent Interaction, pp. 375-377. 2023. ([pdf](https://dl.acm.org/doi/pdf/10.1145/3623809.3623930))
 1. Shin, Minjung, Minsu Jang, Miyoung Cho, and Jeh-Kwang Ryu. "Uncertainty-Resolving Questions for Social Robots." In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction, pp. 226-230. 2023.
