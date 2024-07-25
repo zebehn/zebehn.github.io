@@ -100,6 +100,10 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ### **Talks/Press**
 
+- 파운데이션 모델을 이용한 로봇 작업계획과 실행 *(IT21 글로벌 컨퍼런스, 2024-07-05)* [pdf](https://docs.google.com/presentation/d/e/2PACX-1vSkZxGBjKIlUFB513xRkLNdRNpZvdoUY1ZBc9UVV7gwuXaUsoEaZaUoh1-eBPkYdnshwx3avYYD_zFA/pub?start=false&loop=false&delayms=3000&fbclid=IwZXh0bgNhZW0CMTEAAR1remr28HqlzQL2rSXoU2bxszrHgkwGtOsGRuIHW0Nj5H2VXXKelWbbOas_aem_8Zmg0huZsdnNO7nrVDo-MQ#slide=id.p1)
+
+- 파운데이션 모델의 로봇 활용 동향 *(융합뇌과학연구소 상반기 심포지움, 2024-06-14)*
+
 - Foundation Models for Robots *(Talk at GIST IIT, 2023-11-16)* [pdf](files/foundation-models-for-robots_minsujang_231116.pdf)
 
 - 클라우드 로봇 지능 + 열린 세계와 지속 성장 패러다임 *(KRnet2022, 2022년 6월 28일)* [pdf](files/cloud-robot-intelligence-open-world-cognition_minsujang_220628.pdf)
