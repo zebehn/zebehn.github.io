@@ -98,7 +98,12 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 - *Organizing Committee Member for* Workshop on Social Human-Robot Interaction of Human-care Service Robots, International Conference on Social Robotics (ICSR 2018), 2018
 - *Organizing Committee Member for* Workshop on Social Robot Intelligence, International Conference on Social Robotics (ICSR 2017), 2017
 
-### **Talks/Press**
+## **Projects**
+
+- AAI4R: Adaptive AI for Robots via Cloud Robot Intelligence [https://aai4r.github.io](https://aai4r.github.io)
+- LBAA: Learning-By-Asking Agents [https://lbaa2022.github.io/](https://lbaa2022.github.io/)
+
+## **Talks/Press**
 
 - 파운데이션 모델을 이용한 로봇 작업계획과 실행 *(IT21 글로벌 컨퍼런스, 2024-07-05)* [pdf](https://docs.google.com/presentation/d/e/2PACX-1vSkZxGBjKIlUFB513xRkLNdRNpZvdoUY1ZBc9UVV7gwuXaUsoEaZaUoh1-eBPkYdnshwx3avYYD_zFA/pub?start=false&loop=false&delayms=3000&fbclid=IwZXh0bgNhZW0CMTEAAR1remr28HqlzQL2rSXoU2bxszrHgkwGtOsGRuIHW0Nj5H2VXXKelWbbOas_aem_8Zmg0huZsdnNO7nrVDo-MQ#slide=id.p1)
 
