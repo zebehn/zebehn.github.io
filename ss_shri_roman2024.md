@@ -1,6 +1,8 @@
 # IEEE RO-MAN 2024 Special Session on Social Human-Robot Interaction of Human-care Service Robots: <br/> *Exploring Foundation Models in Social Human-Robot Interaction*
 
-- Session Code: 91r6n
+## Date and Location
+2024-08-28, Co-located with [IEEE RO-MAN 2024](https://ro-man2024.org/)), Pasadena, CA, USA
+
 
 ## Aim and Scope
 
