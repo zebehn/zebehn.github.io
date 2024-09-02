@@ -57,3 +57,16 @@ Topics of interest include but not limited to:
 - Kristiina Jokinen, Co-Chair, National Institute of Advanced Industrial Science and Technology, Japan
 - Jongsuk Choi, Co-Advisor, Korea Advanced Institute of Science and Technology, South Korea
 - Jaehong Kim, Co-Advisor, Electronics and Telecommunications Research Institute, South Korea
+
+## Session Information
+
+We received 9 paper submissions for our special session, of which 6 were accepted. The accepted papers are:
+
+1. "Beyond Acceptance: Patients' Perspectives on Humanoid Assistive Robots in Healthcare" (Linda Sørensen et al.)
+2. "The Impact of Compositionality in Zero-Shot Multi-Label Action Recognition for Object-Based Tasks" (Carmela Calabrese et al.)
+3. "PhysicsAssistant: An LLM-Powered Interactive Learning Robot for Physics Lab Investigations" (Ehsan Latif)
+4. "Enhancing Emotion Detection through ChatGPT-Augmented Text Transformation in Social Media Text" (Sanghyub John Lee)
+5. "Weighted Multi-Modal Sign Language Recognition" (Edmond Liu et al.)
+6. "Towards an Interaction Stimulator Social Robot in the Parent-Child Interaction Therapy Based on Real-Time Speech Processing" (David Vincze et al.)
+
+The special session was held on August 28th at 11:00 AM at the room T1 of the Pasadena Convention Center venue.
