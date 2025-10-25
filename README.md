@@ -111,6 +111,8 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 - 파운데이션 모델의 로봇 활용 동향 *(융합뇌과학연구소 상반기 심포지움, 2024-06-14)*
 
+- 돌봄로봇과 기술 *(서울 시니어스타워(주) 서울본부, 2024-02-14)* [google docs](https://docs.google.com/presentation/d/1posl5oqZRvEQTxymxjhNyI4Zu8YOcVNc4IQ_4ZEbaMo/edit?usp=sharing)
+
 - Foundation Models for Robots *(Talk at GIST IIT, 2023-11-16)* [pdf](files/foundation-models-for-robots_minsujang_231116.pdf)
 
 - 클라우드 로봇 지능 + 열린 세계와 지속 성장 패러다임 *(KRnet2022, 2022년 6월 28일)* [pdf](files/cloud-robot-intelligence-open-world-cognition_minsujang_220628.pdf)
