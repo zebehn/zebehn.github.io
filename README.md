@@ -105,6 +105,8 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ## **Talks/Press**
 
+- 로봇 지능의 진화: 파운데이션 모델과 인간-로봇 상호작용 *(HCI Korea, 2026-01-26)* [google drive](https://docs.google.com/presentation/d/1SY4ltpUscFu3EoZQ06S8zJDjtJRZZhiiVkRcqjc28vk)
+
 - 파운데이션 모델의 온디바이스 최적화 전략 *(AI 반도체 대전환 교육 세미나, 2025-10-24)*, [pdf](https://drive.google.com/file/d/1YLbyxYXfiS-DucHfm3eN3u3Rt-m_c0Mp/view?usp=sharing)
 
 - 파운데이션 모델을 이용한 로봇 작업계획과 실행 *(IT21 글로벌 컨퍼런스, 2024-07-05)* [pdf](https://docs.google.com/presentation/d/e/2PACX-1vSkZxGBjKIlUFB513xRkLNdRNpZvdoUY1ZBc9UVV7gwuXaUsoEaZaUoh1-eBPkYdnshwx3avYYD_zFA/pub?start=false&loop=false&delayms=3000&fbclid=IwZXh0bgNhZW0CMTEAAR1remr28HqlzQL2rSXoU2bxszrHgkwGtOsGRuIHW0Nj5H2VXXKelWbbOas_aem_8Zmg0huZsdnNO7nrVDo-MQ#slide=id.p1)
