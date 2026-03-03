@@ -105,6 +105,8 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 
 ## **Talks/Press**
 
+- 돌봄로봇 분야의 AI 적용 *(돌봄로봇협동조합 워크샵, 2026-02-27)* [google slides](https://docs.google.com/presentation/d/e/2PACX-1vR1FhB81dfSyv2cJj5Avs3vTJrCvkeb2NRiwAIQweoX-IYr5QebCqa0F_czXEBIKY761YihzOdfeeM1/pub?start=false&loop=false&delayms=60000)
+
 - 로봇 지능의 진화: 파운데이션 모델과 인간-로봇 상호작용 *(HCI Korea, 2026-01-26)* [google drive](https://docs.google.com/presentation/d/1SY4ltpUscFu3EoZQ06S8zJDjtJRZZhiiVkRcqjc28vk)
 
 - 파운데이션 모델의 온디바이스 최적화 전략 *(AI 반도체 대전환 교육 세미나, 2025-10-24)*, [pdf](https://drive.google.com/file/d/1YLbyxYXfiS-DucHfm3eN3u3Rt-m_c0Mp/view?usp=sharing)
