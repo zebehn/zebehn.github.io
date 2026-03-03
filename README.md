@@ -32,23 +32,37 @@ Hyundai Electronics Industries Co., Ltd. (Researcher, 1994 – 1999)
 
 ### **Peer-reviewed International Journals**
 
+1. Cho, Miyoung, Dohyung Kim, Minsu Jang, Jaeyeon Lee, Jaehong Kim, Woo-han Yun, Youngwoo Yoon, Jinhyeok Jang, and Cheonshu Park. "Evaluating Human-Care Robot Services for the Elderly: An Experimental Study." International Journal of Social Robotics 16, no. 7 (2024): 1561-1587.
+1. Ko, Woo-Ri, Minsu Jang, Jaeyeon Lee, and Jaehong Kim. "Nonverbal Social Behavior Generation for Social Robots Using End-to-End Learning." The International Journal of Robotics Research 43, no. 5 (2024): 716-728.
 1. Jang, Minsu, Ho Seok Ahn, and Jong-Suk Choi. "Editorial Introduction to Special Issue on Machine Learning for Social Human-Robot Interaction." International Journal of Social Robotics 15, no. 4 (2023): 581-582.
 1. Hellou, Mehdi, JongYoon Lim, Norina Gasteiger, Minsu Jang, and Ho Seok Ahn. "Technical Methods for Social Robots in Museum Settings: An Overview of the Literature." International Journal of Social Robotics 14, no. 8 (2022): 1767-1786.
 1. Jang, Minsu, JongSuk Choi, Ho Seok Ahn, and Chung Hyuk Park. "(Editorial) Social human-robot interaction (sHRI) of human-care service robots." Frontiers in Robotics and AI 9 (2022): 1064440.
 1. Hellou, Mehdi, Norina Gasteiger, Jong Yoon Lim, Minsu Jang, and Ho Seok Ahn. "Personalization and Localization in Human-Robot Interaction: A Review of Technical Methods." Robotics 10, no. 4 (2021): 120.
+1. Jang, Minsu, Ho Seok Ahn, Jong-Suk Choi, Frank Kirstein, and Yoichi Takayama. "Special Issue on Social Human-Robot Interaction for Human-Care Robots." Intelligent Service Robotics 14, no. 3 (2021): 327-328.
 1.	Ko, Woo-Ri, Minsu Jang, Jaeyeon Lee, and Jaehong Kim. "AIR-Act2Act: Human–human interaction dataset for teaching non-verbal social behaviors to robots." The International Journal of Robotics Research 40, no. 4-5 (2021): 691-697.
 1.	Yoon, Youngwoo, Bok Cha, Joo-Haeng Lee, Minsu Jang, Jaeyeon Lee, Jaehong Kim, and Geehyuk Lee. "Speech gesture generation from the trimodal context of text, audio, and speaker identity." ACM Transactions on Graphics (TOG)39, no. 6 (2020): 1-16.
 1.	Jang, Minsu, Jaehong Kim, Yong–Ho Seo, and Hyun–Seung Yang. "Adaptive gesture tracking and recognition using acceleration sensors for a mobile device." International Journal of Wireless and Mobile Computing 8, no. 2 (2015): 183-193.
 
 ### **International Conferences (+ arXiv preprints)**
 
+1. Kim, Hyungmin, Hobeom Jeon, Dohyung Kim, Minsu Jang, and Jaehong Kim. "SPOC: Safety-Aware Planning Under Partial Observability And Physical Constraints." arXiv preprint arXiv:2602.21595 (2026). ([arxiv](https://arxiv.org/abs/2602.21595))
+1. Choi, Jae-Woo, Hyungmin Kim, Hyobin Ong, Youngwoo Yoon, Minsu Jang, Dohyung Kim, and Jaehong Kim. "ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning." arXiv preprint arXiv:2511.02424 (2025). ([arxiv](https://arxiv.org/abs/2511.02424))
+1. Kanwal, Sundas, Ahmad Salman Wahd, Sangyun Lee, Minsu Jang, and Sang-Il Lee. "Unknown Object Detection by Leveraging Segment Anything Model for Labeling the OOD Objects." In 2025 16th International Conference on Information and Communication Technology Convergence (ICTC). 2025.
+1. Park, Cheonshu, Miyoung Cho, Minjung Shin, Jeh-Kwang Ryu, and Minsu Jang. "Adaptive Robot-Mediated Assessment using LLM for Enhanced Survey Quality in Older Adults Care Programs." In 2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI). 2025.
+1. Jang, Minsu. "Revisiting ALFRED: Refining Commands for Evaluating Language-Guided Task Planning." In The 8th Workshop on Generalization in Planning (GenPlan), AAAI 2025. 2025.
+1. Ong, Hyobin, Youngwoo Yoon, Jae-Woo Choi, and Minsu Jang. "A Simple Baseline for Uncertainty-Aware Language-Oriented Task Planner for Embodied Agents." In 2024 21st International Conference on Ubiquitous Robots (UR), pp. 677-682. 2024.
 1. Yun, Woo-han, Minsu Jang, and Jaehong Kim. "Model Comparison for Fast Domain Adaptation in Table Service Scenario." arXiv preprint arXiv:2403.05092 (2024). ([arxiv](https://arxiv.org/abs/2403.05092))
 1. Choi, Jae-Woo, Youngwoo Yoon, Hyobin Ong, Jaehong Kim, and Minsu Jang. "LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents." In The Twelfth International Conference on Learning Representations. 2023. ([Open Review](https://openreview.net/forum?id=ADSxCpCu9s), [github](https://github.com/lbaa2022/LLMTaskPlanning))
 1. Kim, Taewoo, Donghyung Kim, Minsu Jang, and Jaehong Kim. "Uncertainty-Aware Shared Autonomy System with Hierarchical Conservative Skill Inference." arXiv preprint arXiv:2312.02488 (2023). ([arxiv](https://arxiv.org/abs/2312.02488))
 1. Jang, Minsu, Youngwoo Yoon, Jaewoo Choi, Hyobin Ong, and Jaehong Kim. "A Structured Prompting based on Belief-Desire-Intention Model for Proactive and Explainable Task Planning." In Proceedings of the 11th International Conference on Human-Agent Interaction, pp. 375-377. 2023. ([pdf](https://dl.acm.org/doi/pdf/10.1145/3623809.3623930))
 1. Shin, Minjung, Minsu Jang, Miyoung Cho, and Jeh-Kwang Ryu. "Uncertainty-Resolving Questions for Social Robots." In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction, pp. 226-230. 2023.
-1. Ko, Woo-Ri, Minsu Jang, Jaeyeon Lee, and Jaehong Kim. "Nonverbal Social Behavior Generation for Social Robots Using End-to-End Learning." arXiv preprint arXiv:2211.00930 (2022).
+1. Cho, Youngjo, Miyoung Cho, and Minsu Jang. "Social Robot Intelligence Quotient to Measure Human-Robot Interaction Performance for Human-Care Service Robots." In 2023 20th International Conference on Ubiquitous Robots (UR), pp. 616-621. 2023.
+1. Cho, Miyoung, Minsu Jang, Dohyung Kim, and Jaehong Kim. "An Experimental Evaluation of Human-Care Robot Services for Older People in Home." In 2023 20th International Conference on Ubiquitous Robots (UR), pp. 141-147. 2023.
+1. Ko, Woo-Ri, Minsu Jang, Jaeyeon Lee, and Jaehong Kim. "Adaptive Behavior Generation of Social Robots Based on User Behavior Recognition." In International Conference on Social Robotics (ICSR), pp. 188-197. 2022.
+1. Cho, Miyoung, Jinhyeok Jang, Jaeyeon Lee, Minsu Jang, Dohyung Kim, and Jaehong Kim. "Real-World Validation Study of Daily Activity Detection for the Elderly." In 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). 2022.
 1. Yoon, Youngwoo, Keunwoo Park, Minsu Jang, Jaehong Kim, and Geehyuk Lee. "SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents." In The 34th Annual ACM Symposium on User Interface Software and Technology, pp. 826-840. 2021.
+1. Jang, Minsu, Soonshin Seo, Dohyung Kim, Jaeyeon Lee, Jaehong Kim, and Jae-Hyun Ahn. "Vote400: A Speech Dataset to Study Voice Interface for Elderly-Care." arXiv preprint arXiv:2101.11469 (2021). ([arxiv](https://arxiv.org/abs/2101.11469))
+1. Kim, Taewoo, Minsu Jang, and Jaehong Kim. "A Survey on Simulation Environments for Reinforcement Learning." In 2021 18th International Conference on Ubiquitous Robots (UR), pp. 63-67. 2021.
 1. Jang, Jinhyeok, Dohyung Kim, Cheonshu Park, Minsu Jang, Jaeyeon Lee, and Jaehong Kim. "ETRI-activity3D: A large-scale RGB-D dataset for robots to recognize daily activities of the elderly." In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 10990-10997. IEEE, 2020.
 1. Ko, Woo-Ri, Jaeyeon Lee, Minsu Jang, and Jaehong Kim. "End-to-End Learning of Social Behaviors for Humanoid Robots." In 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1200-1205. IEEE, 2020.
 1. Yoon, Youngwoo, Woo-Ri Ko, Minsu Jang, Jaeyeon Lee, Jaehong Kim, and Geehyuk Lee. "Robots learn social skills: End-to-end learning of co-speech gesture generation for humanoid robots." In 2019 International Conference on Robotics and Automation (ICRA), pp. 4303-4309. IEEE, 2019.
@@ -65,6 +79,7 @@ Hyundai Electronics Industries Co., Ltd. (Researcher, 1994 – 1999)
 
 ### 국내 학술지 (Korean Journals & Conferences)
 
+1. 조미영, 김재홍, 이대하, 장민수, "인공지능 안내 로봇 서비스 만족도와 품질 속성 분석", 로봇학회 논문지, 제18권 2호, pp. 216-224, 2023.
 1. 장민수, 김재홍, "대형언어모델로 진화하는 로봇 지능", 한국통신학회 정보와통신, 제40권 5호, 2023. [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11402805)
 
 ## **PROFESSIONAL SERVICES**
