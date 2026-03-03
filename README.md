@@ -86,7 +86,7 @@ Human-Robot Interaction Research Lab., Electronics and Telecommunications Resear
 - *Publicity Chair for* the 2025 International Conference on Social Robotics ([ICSR 2025](https://icsr2025.eu))
 - *Co-Chair for* the Special Session on Social Human-Robot Interaction of Human-care Service Robots: Exploring Foundation Models in Social Human-Robot Interaction, IEEE RO-MAN 2024, 2024. [link](ss_shri_roman2024.md)
 - *Program Committee Member for* the 2024 International Symposium on Technological Advances in Human-Robot Interaction ([TAHRI 2024](https://www.tahri.org)), 2024.
-- *Program Co-Chair for* the 33rd 2024 IEEE International Conference on Robot & Human Interactive Communication
+- *Program Co-Chair for* the 33rd 2024 IEEE International Conference on Robot & Human Interactive Communication ([RO-MAN 2024](https://underline.io/events/461/reception))
 - *Exhibition Co-Chair for* the 2023 International Conference on Social Robotics (ICSR 2023) ([ICSR2023](https://icsr23.qa/))
 - *Publication Co-Chair for* the 32nd IEEE International Conference on Robot & Human Interactive Communication ([RO-MAN2023](https://ro-man2023.org/))
 - *Program Committee Associate Editor for* The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems ([IROS2022](https://iros2022.org))
