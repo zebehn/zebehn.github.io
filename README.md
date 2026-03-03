@@ -25,7 +25,8 @@ Social Human-Robot Interaction, Robot Software Framework, Foundation Models for 
 
 ## **AFFILIATION**
 
-Human-Robot Interaction Research Lab., Electronics and Telecommunications Research Institute (Principal Researcher, 1999 – Present)
+Electronics and Telecommunications Research Institute (Principal Researcher, 1999 – Present)<br/>
+Hyundai Electronics Industries Co., Ltd. (Researcher, 1994 – 1999)
 
 ## **PUBLICATIONS**
 
