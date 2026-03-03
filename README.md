@@ -1,11 +1,11 @@
-# **Minsu Jang (장민수)**
+# **Minsu Jang (장민수, ETRI)**
 
 <img src="minsujang_2022.png" width="150"/>
 
 ## **CONTACT INFORMATION**
 
-Social Robotics Research Team<br/>
-Mobility-Robot Research Division<br/>
+Social Robotics Research Section<br/>
+Humanoid Robot System Research Department<br/>
 Electronics and Telecommunications Research Institute (ETRI)<br/>
 Gajeong-ro 218, Yuseong-gu<br/>
 Daejeon-si, 34129<br/>
