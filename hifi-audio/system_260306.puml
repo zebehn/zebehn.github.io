@@ -52,9 +52,6 @@ multitap1 : Made by: Reference Club
 object "[MultiTap] Lunex" as multitap2
 multitap2 : Made by: Reference Club
 
-object "Trinity Mk II" as powerfilter
-powerfilter : Made by: Crystal Audio
-
 object "Stellar PowerPlant 3" as powerregenerator
 powerregenerator : Made by: PS Audio
 powerregenerator : Isolator: IsoAcoustics OREA Indigo
@@ -89,17 +86,16 @@ powerregenerator ..> preamp: PAD Venustas Powercord (1.8m)
 powerregenerator ..> poweramp
 powerregenerator ..> dac : Nordost Valhalla2 Powercord (2m)
 
-wallpowersocket ..> powerfilter
-powerfilter ..> multitap2
+wallpowersocket ..> multitap2: Trinity Mk II
 multitap2 ..> linear1: Bundle Powercord
 multitap2 ..> linear2: Bundle Powercord
 linear1 ..> fiberhub3: Xangsane DC-Cable (5V)
 linear1 ..> fiberhub4: Xangsane DC-Cable (5V)
 multitap2 ..> macmini: SoulAudio Powercord
 
-batteryps ..> turntable: DC-Cable
+batteryps ..> turntable: Xangsane DC-Cable
 multitap1 ..> speaker: Odin Fake Powercord x2 (2m)
-battery ..> phononamp: DC-Cable
+battery ..> phononamp: Xangsane DC-Cable
 multitap1 ..> netswitch: Odin Fake Powercord (1.5m)
 linear2 ..> fiberhub1: Xangsane DC-Cable (5V)
 linear2 ..> fiberhub2: Xangsane DC-Cable (5V)
