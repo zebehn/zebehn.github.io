@@ -81,9 +81,9 @@ phononamp --> preamp : Nordost Frey 2 RCA (1m)
 turntable --> phononamp: Clearaudio Clarify RCA (1m)
 
 wallpowersocket ..> multitap1: Golden Strada PS#308
-multitap1 ..> powerregenerator
-powerregenerator ..> preamp: PAD Venustas Powercord (1.8m)
-powerregenerator ..> poweramp
+multitap1 ..> powerregenerator: Yuseongwoon Powercord
+powerregenerator ..> preamp: Odin Gold Fake Powercord
+powerregenerator ..> poweramp: PAD Venustas Powercord (1.8m)
 powerregenerator ..> dac : Nordost Valhalla2 Powercord (2m)
 
 wallpowersocket ..> multitap2: Trinity Mk II
@@ -96,18 +96,18 @@ multitap2 ..> macmini: SoulAudio Powercord
 batteryps ..> turntable: Xangsane DC-Cable
 multitap1 ..> speaker: Odin Fake Powercord x2 (2m)
 battery ..> phononamp: Xangsane DC-Cable
-multitap1 ..> netswitch: Odin Fake Powercord (1.5m)
+multitap2 ..> netswitch: Yuseongwoon Powercord
 linear2 ..> fiberhub1: Xangsane DC-Cable (5V)
 linear2 ..> fiberhub2: Xangsane DC-Cable (5V)
 
 streamer --> dac: 10hz Audio USB Cable
 
-walllansocket --|> netswitch: Audioquest RJ45-G Cat5e LAN Cable
-netswitch --|> fiberhub1: AIM NA5 LAN Cable
-fiberhub1 --|> fiberhub2: Fiber Cable
-fiberhub2 --|> dac: AIM NA5 LAN Cable
+walllansocket --|> fiberhub1: AIM NA5 LAN Cable
+fiberhub1 --|> fiberhub2: Fiber Optic Cable
+fiberhub2 --|> netswitch: AIM NA5 LAN Cable
+netswitch --|> macmini: Audioquest Forest LAN Cable
 netswitch --|> fiberhub3: CAT7 LAN Cable
-fiberhub3 --|> fiberhub4: Fiber Cable
-fiberhub4 --|> macmini: Audioquest Forest LAN Cable
+fiberhub3 --|> fiberhub4: Fiber Optic Cable
+fiberhub4 --|> dac: AIM NA5 LAN Cable
 
 @enduml
