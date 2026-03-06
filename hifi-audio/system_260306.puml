@@ -26,12 +26,6 @@ poweramp : Board: Finale by Reference Club
 object "[Phonoamp] BNK-1003" as phononamp
 phononamp : Made by: BAKOON
 
-object "Power Adaptor(5V)" as adaptor1
-adaptor1 : Made by: BAKOON
-
-object "Power Adaptor(5V)" as adaptor3
-adaptor3 : Made by: BAKOON
-
 object "LT3042 Battery Power Supply" as batteryps
 batteryps : Made by: LHY Audio
 
@@ -58,8 +52,8 @@ multitap1 : Made by: Reference Club
 object "[MultiTap] Lunex" as multitap2
 multitap2 : Made by: Reference Club
 
-object "DC Filter" as dcfilter1
-dcfilter1 : Made by: Crystal Audio
+object "Trinity Mk II" as powerfilter
+powerfilter : Made by: Crystal Audio
 
 object "Stellar PowerPlant 3" as powerregenerator
 powerregenerator : Made by: PS Audio
@@ -89,26 +83,24 @@ poweramp --> speaker : Nordost Frey Speaker Cable(2m)
 phononamp --> preamp : Nordost Frey 2 RCA (1m)
 turntable --> phononamp: Clearaudio Clarify RCA (1m)
 
-wallpowersocket ..> powerregenerator : Odin Fake Powercord (3m)
-powerregenerator ..> dac : Nordost Valhalla2 Powercord (2m)
-powerregenerator ..> preamp: PAD Venustas Powercord (1.8m)
-
 wallpowersocket ..> multitap1: Golden Strada PS#308
+multitap1 ..> powerregenerator
+powerregenerator ..> preamp: PAD Venustas Powercord (1.8m)
+powerregenerator ..> poweramp
+powerregenerator ..> dac : Nordost Valhalla2 Powercord (2m)
 
-dcfilter1 ..> multitap2: Bundle Powercord
+wallpowersocket ..> powerfilter
+powerfilter ..> multitap2
 multitap2 ..> linear1: Bundle Powercord
 multitap2 ..> linear2: Bundle Powercord
-multitap2 ..> adaptor1: Bundle Powercord
-multitap2 ..> adaptor3: Bundle Powercord
-adaptor1 ..> fiberhub3: Xangsane DC-Cable (5V)
-adaptor3 ..> fiberhub4: Xangsane DC-Cable (5V)
+linear1 ..> fiberhub3: Xangsane DC-Cable (5V)
+linear1 ..> fiberhub4: Xangsane DC-Cable (5V)
 multitap2 ..> macmini: SoulAudio Powercord
 
 batteryps ..> turntable: DC-Cable
-multitap1 ..> speaker: Odin Fake Powercord (2m)
+multitap1 ..> speaker: Odin Fake Powercord x2 (2m)
 battery ..> phononamp: DC-Cable
 multitap1 ..> netswitch: Odin Fake Powercord (1.5m)
-multitap1 ..> dcfilter1: Bundle Powercord (1.5m)
 linear2 ..> fiberhub1: Xangsane DC-Cable (5V)
 linear2 ..> fiberhub2: Xangsane DC-Cable (5V)
 
