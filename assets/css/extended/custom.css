@@ -1,0 +1,73 @@
+/* Calm, muted color palette */
+:root {
+    --primary: #4a6274;
+    --secondary: #6b8a9e;
+    --content: #2d3748;
+    --border: #e2e8f0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.post-content {
+    line-height: 1.8;
+}
+
+/* Soften the profile mode */
+.profile .profile_inner h1 {
+    font-size: 1.8rem;
+    color: var(--primary);
+}
+
+.profile .profile_inner h2 {
+    font-size: 1rem;
+    color: var(--secondary);
+    font-weight: 400;
+}
+
+/* Calm link colors */
+a {
+    color: var(--primary);
+}
+
+a:hover {
+    color: var(--secondary);
+}
+
+/* Softer headings */
+.post-content h2 {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 0.3em;
+    color: var(--primary);
+}
+
+/* Publication list styling */
+.post-content ol {
+    padding-left: 1.5em;
+}
+
+.post-content ol li {
+    margin-bottom: 0.8em;
+    line-height: 1.6;
+}
+
+/* Draft indicator */
+.entry-hint {
+    color: #e53e3e;
+    margin-left: 0.3em;
+    vertical-align: middle;
+}
+
+.entry-hint svg {
+    width: 22px;
+    height: 22px;
+}
+
+/* Table of contents styling */
+.toc {
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 1em;
+    background: transparent;
+}
