@@ -39,6 +39,7 @@ Social Human-Robot Interaction, Robot Software Framework, Foundation Models for 
 ## Professional Experience
 
 - **Electronics and Telecommunications Research Institute (ETRI)** -- Principal Researcher (1999 -- Present)
+- **University of Science and Technology (UST)** -- Professor, Artificial Intelligence Major (2022 -- Present)
 - **Korea Robotics Society (KROS)** -- Board Member (2017 -- Present)
 - **Hyundai Electronics Industries Co., Ltd.** -- Researcher (1994 -- 1999)
 
