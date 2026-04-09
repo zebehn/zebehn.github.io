@@ -38,7 +38,7 @@ tocopen: true
 ## 경력
 
 - **한국전자통신연구원 (ETRI)** -- 책임연구원 (1999 -- 현재)
-- **과학기술연합대학원대학교 (UST)** -- 인공지능전공 교수 (2022 -- 현재)
+- **[과학기술연합대학원대학교 (UST)](https://ust.ac.kr/prog/major/kor/sub03_03_04/all/view.do?majorNo=71&kind=professor&empNo=VVUXOrk7vK7Z8OwdMvY9UA==)** -- 인공지능전공 교수 (2022 -- 현재)
 - **한국로봇학회** -- 이사 (2017 -- 현재)
 - **현대전자산업(주)** -- 연구원 (1994 -- 1999)
 
