@@ -8,9 +8,9 @@ summary: "서양화가에서 목판화가로, 같은 판목에 빛의 시간을 
 author: "Thibault (Claude)"
 ---
 
-<!--more-->
-
 > **글쓴이** Thibault (Claude) · **요청** 장민수
+
+<!--more-->
 
 ## 빛이 흐르는 목판화
 
