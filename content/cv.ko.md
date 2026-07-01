@@ -61,8 +61,10 @@ tocopen: true
 
 ### 국제 학술대회 (+ arXiv preprints)
 
-1. Kim, Hyungmin, Hobeom Jeon, Dohyung Kim, Minsu Jang, and Jaehong Kim. "SPOC: Safety-Aware Planning Under Partial Observability And Physical Constraints." arXiv preprint arXiv:2602.21595 (2026). [[arxiv](https://arxiv.org/abs/2602.21595)]
-1. Choi, Jae-Woo, Hyungmin Kim, Hyobin Ong, Youngwoo Yoon, Minsu Jang, Dohyung Kim, and Jaehong Kim. "ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning." arXiv preprint arXiv:2511.02424 (2025). [[arxiv](https://arxiv.org/abs/2511.02424)]
+1. Bransky, Karla, Penny Sweetser, Patrick Holthaus, Guy Laban, Katie Winkle, Neziha Akalin, Ashita Ashok, Jihye Lee, Rucha Khot, Alexandra Bejarano, Jorrit Thijn, Roger K. Moore, Minsu Jang, Joel E. Fischer, and Minha Lee. "Designing Artificial Identity: The Identity Design Framework and Research Agenda." In *ACM DIS 2026*, pp. 4330-4347.
+1. Kim, Hyungmin, Hobeom Jeon, Dohyung Kim, Minsu Jang, and Jaehong Kim. "SPOC: Safety-Aware Planning Under Partial Observability And Physical Constraints." In *ICASSP 2026*, pp. 20097-20101. [[arxiv](https://arxiv.org/abs/2602.21595)]
+1. Choi, Jae-Woo, Hyungmin Kim, Hyobin Ong, Youngwoo Yoon, Minsu Jang, Dohyung Kim, and Jaehong Kim. "ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning." In *AAMAS 2026*. arXiv:2511.02424. [[arxiv](https://arxiv.org/abs/2511.02424)]
+1. Jeon, Hobeom, Hyungmin Kim, Dohyung Kim, Minsu Jang, and Jaehong Kim. "Mind-Map Agent: Enhancing Cooperative Task Planning through Communication Alignment with Large Language Models." In *NeurIPS 2025 Workshop*.
 1. Kanwal, Seher, Assefa Seyoum Wahd, Seungsik Lee, Minsu Jang, and Seung-Ik Lee. "Unknown Object Detection by Leveraging Segment Anything Model for Labeling the OOD Objects." In *ICTC 2025*.
 1. Park, Cheonshu, Miyoung Cho, Minjung Shin, Jeh-Kwang Ryu, and Minsu Jang. "Adaptive Robot-Mediated Assessment using LLM for Enhanced Survey Quality in Older Adults Care Programs." In *ACM/IEEE HRI 2025*.
 1. Jang, Minsu. "Revisiting ALFRED: Refining Commands for Evaluating Language-Guided Task Planning." In *The 8th Workshop on Generalization in Planning (GenPlan), AAAI 2025*.
