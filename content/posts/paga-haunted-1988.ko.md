@@ -1,6 +1,6 @@
 ---
 title: "Paga 2집 \"Haunted\" (1988) — 파가노티의 젤 사운드, 밴드캠프에서 다시 듣다"
-date: 2026-07-02
+date: 2026-07-02T05:48:00+09:00
 draft: false
 tags: ["음악", "zeuhl", "Paga", "Bernard Paganotti", "Magma"]
 categories: ["음악"]
