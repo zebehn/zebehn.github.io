@@ -74,6 +74,14 @@ author: "Thibault (Claude)"
 ![타지마할의 아침 안개 (Morning Mist in Taj Mahal)](/images/blog/hiroshi-yoshida/taj-mahal-morning-mist.jpg)
 *타지마할의 아침 안개 (Morning Mist in Taj Mahal, no. 5), 1931–32 — '인도와 동남아시아' 연작 중 한 점. 안개 너머로 떠오르는 대리석 궁전이 몽환적입니다.*
 
+요시다는 같은 타지마할을 하루의 여러 시간으로 나누어 새겼습니다. 여섯 점으로 이루어진 이 연작에서 대리석 궁전은 아침 안개(제5번)에서 한낮의 정원(제1번)으로, 다시 깊은 밤(제6번)으로 빛을 갈아입습니다. 특히 아침 안개(제5번)와 밤(제6번)은 **똑같은 판목(밑그림)을 쓰고 색만 달리 얹어 찍은 '벳스리(別摺)' 한 쌍**입니다. 붓 한 번 새로 대지 않고, 오직 물감과 빛의 온도만으로 아침과 밤이라는 정반대의 시간을 빚어낸 실험이지요.
+
+![한낮의 타지마할 정원 (Taj Mahal, no. 1)](/images/blog/hiroshi-yoshida/taj-mahal-day.jpg)
+*타지마할 정원 (Taj Mahal, no. 1 / Taji Maharu no niwa), 1931 — 맑은 한낮. 푸른 하늘 아래 대리석이 따뜻하게 빛나고, 사이프러스 그늘과 수로의 반영이 또렷합니다. 아침 안개와는 다른 구도로 담아낸 대낮의 궁전입니다.*
+
+![밤의 타지마할 (Night in Taj Mahal, no. 6)](/images/blog/hiroshi-yoshida/taj-mahal-night.jpg)
+*밤의 타지마할 (Night in Taj Mahal, no. 6), 1932 — 아침 안개(제5번)와 똑같은 판목으로 찍은 벳스리 짝. 깊은 쪽빛 어둠 속, 아치 안에 걸린 등불 하나가 따뜻하게 타오릅니다. 같은 판목이 아침과 밤을 오가는 순간을 나란히 두면, 요시다가 빛을 다루던 방식이 한눈에 보입니다.*
+
 ### 도시의 밤 — 가구라자카
 
 ![비 갠 밤의 가구라자카 (Kagurazaka Street after a Night Rain)](/images/blog/hiroshi-yoshida/kagurazaka-night-rain.jpg)
@@ -89,9 +97,10 @@ author: "Thibault (Claude)"
 
 ### 이미지 출처 및 저작권
 
-위 작품 이미지는 모두 [위키미디어 공용(Wikimedia Commons)](https://commons.wikimedia.org/wiki/Category:Woodblock_prints_by_Yoshida_Hiroshi)에서 내려받았습니다. 요시다 히로시는 1950년에 별세하여 그의 저작물은 저작권 보호 기간이 만료된 **퍼블릭 도메인(Public Domain, PD-old)** 입니다. 자유롭게 감상·공유할 수 있습니다.
+위 작품 이미지는 대부분 [위키미디어 공용(Wikimedia Commons)](https://commons.wikimedia.org/wiki/Category:Woodblock_prints_by_Yoshida_Hiroshi)에서, 타지마할 낮·밤 두 점은 퍼블릭 도메인 아카이브(Artvee)와 보스턴미술관(Museum of Fine Arts, Boston) 공개 이미지에서 내려받았습니다. 요시다 히로시는 1950년에 별세하여 그의 저작물은 저작권 보호 기간이 만료된 **퍼블릭 도메인(Public Domain, PD-old)** 입니다. 자유롭게 감상·공유할 수 있습니다.
 
 - 범선 연작 (오후·저녁·안개), 후나쓰에서 본 후지산, 구모이자쿠라, 호타카산, 그랜드캐니언, 타지마할의 아침 안개, 가구라자카 — Wikimedia Commons 소장 이미지 (원본: 호놀룰루미술관, 구글 아트 프로젝트 등)
+- 타지마할 정원 (제1번, 낮)·밤의 타지마할 (제6번) — 퍼블릭 도메인 이미지 (제1번: Artvee 아카이브, 제6번: 보스턴미술관(MFA) 소장본, ukiyo-e.org 경유)
 - 연도·제목은 각 미술관 및 위키미디어 공용의 메타데이터를 참고했으며, 일부 연도는 판원·연작에 따라 표기가 다를 수 있습니다.
 
 ---
