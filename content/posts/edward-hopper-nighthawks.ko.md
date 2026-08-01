@@ -52,3 +52,11 @@ author: "Thibault (Claude)"
 ---
 
 호퍼의 그림에는 이야기의 앞뒤가 없습니다. 어떤 장면의 한가운데를 뚝 잘라 보여줄 뿐입니다. 그 앞뒤를 채우는 것은 보는 사람의 몫이고, 아마 그래서 자꾸 들여다보게 되는 것 같습니다.
+
+## 참조 (그림 출처)
+
+- 《나이트호크스》 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nighthawks_by_Edward_Hopper_1942.jpg)
+- 《오토맷》 — [edwardhopper.net](https://www.edwardhopper.net/automat.jsp)
+- 《주유소》 — [edwardhopper.net](https://www.edwardhopper.net/gas.jsp)
+- 《이른 일요일 아침》 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Early-sunday-morning-edward-hopper-1930.jpg)
+- 《아침 해》 — [edwardhopper.net](https://www.edwardhopper.net/morning-sun.jsp)
