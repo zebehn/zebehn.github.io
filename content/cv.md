@@ -107,7 +107,7 @@ Social Human-Robot Interaction, Robot Software Framework, Foundation Models for 
 
 ### Associate Editor
 
-- IEEE Robotics and Automation Letters (2020 -- Present)
+- IEEE Robotics and Automation Letters (2020 -- 2022)
 
 ### Journal Special Issue Guest Editor
 

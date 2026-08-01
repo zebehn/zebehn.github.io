@@ -106,7 +106,7 @@ tocopen: true
 
 ### 부편집위원
 
-- IEEE Robotics and Automation Letters (2020 -- 현재)
+- IEEE Robotics and Automation Letters (2020 -- 2022)
 
 ### 학술지 특별호 객원 편집위원
 
