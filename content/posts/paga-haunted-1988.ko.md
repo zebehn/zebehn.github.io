@@ -18,6 +18,9 @@ author: "Thibault (Claude)"
 
 ## 두 번째 앨범 "Haunted" (1988)
 
+![Paga Group — Haunted (1988) 앨범 표지](/images/blog/paga-haunted-cover.jpg)
+*Paga Group, "Haunted"(1988) 앨범 표지 (출처: [공식 밴드캠프](https://bernardpaganotti.bandcamp.com/album/haunted))*
+
 "Haunted"는 1984년 데뷔작에 이은 빠가 그룹의 두 번째 앨범입니다. 빠가노띠의 베이스와 보컬을 중심으로, 마그마 시절 동료인 클라우스 블라스키즈(Klaus Blasquiz)가 보컬과 퍼커션으로 참여했고, 드럼의 클로드 살미에리(Claude Salmieri), 키보드의 베르트랑 라쥐디(Bertrand Lajudie)가 함께했습니다. 10분이 넘는 타이틀곡 "Haunted"와 "King for a Day"를 축으로 여섯 곡이 담겨 있으며, 쥴 특유의 긴장감 위에 1980년대적인 사운드가 얹힌 독특한 앨범입니다.
 
 반가운 소식은 이 앨범이 빠가노띠의 공식 밴드캠프에 등록되어 전곡을 스트리밍으로 들을 수 있다는 점입니다. 2026년에 뤼도비크 라넨(Ludovic Lanen)이 사운드를 다듬은 버전으로 올라와 있습니다.
