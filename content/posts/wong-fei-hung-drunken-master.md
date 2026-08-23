@@ -56,7 +56,7 @@ There is a reason the two are so often mixed up. Both Wong Fei-hung and Ip Man w
 
 ## A Borrowed Name, an Invented Style
 
-One more point remains. The "Drunken Eight Immortals" boxing (醉八仙拳) that Wong Fei-hung learns in *Drunken Master*, a style mimicking eight drunken immortals, is closer to a dramatic invention of the film. The real Wong Fei-hung's art was not drunken boxing but Hung Ga, and his defining technique was the shadowless kick. There is no historical link between drunken boxing and Wong Fei-hung.
+The film borrowed more than the name. The "Drunken Eight Immortals" boxing (醉八仙拳) that Wong Fei-hung learns in *Drunken Master*, a style mimicking eight drunken immortals, is itself closer to a dramatic invention of the film. The real Wong Fei-hung's art was not drunken boxing but Hung Ga, and his defining technique was the shadowless kick. There is no historical link between drunken boxing and Wong Fei-hung.
 
 This reveals how Hong Kong cinema handles its figures. It borrows the name of a real person, then reassigns the martial art, the temperament, and the story to suit its needs. *Snake in the Eagle's Shadow* (蛇形刁手), which Yuen Woo-ping made with Jackie Chan the same 1978, likewise foregrounded a style modeled on the movements of a snake. Taking a single real name and dressing it in an invented style and personality to shape an altogether different character: this was the grammar of martial arts cinema in that era.
 
