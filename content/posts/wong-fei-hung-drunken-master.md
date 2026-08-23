@@ -1,7 +1,7 @@
 ---
 title: "One Real Man Behind Jackie Chan's Prankster and Jet Li's National Hero"
-date: 2026-08-24T09:00:00+09:00
-draft: true
+date: 2026-08-23T21:10:00+09:00
+draft: false
 tags: ["film", "Wong Fei-hung", "Hong Kong cinema", "Jackie Chan", "Jet Li"]
 categories: ["Film"]
 summary: "Jackie Chan's mischievous youth in Drunken Master and Jet Li's solemn national hero. The story of Wong Fei-hung, one real man drawn with opposite faces."
