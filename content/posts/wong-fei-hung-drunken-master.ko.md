@@ -46,6 +46,8 @@ author: "Thibault (Claude)"
 ![이연걸은 1991년 황비홍 시리즈에서 근엄한 민족 영웅을 연기했습니다](/images/blog/wong-fei-hung-jet-li.jpg)
 *배우 이연걸, 2009년 다보스 (사진: Robert Scoble, CC BY 2.0, Wikimedia Commons)*
 
+그런데 이 선율은 1991년에 처음 만들어진 것이 아닙니다. 원곡은 오래전부터 전해 내려온 전통 곡조 〈장군령(將軍令)〉입니다. 1949년 시작된 관덕흥의 황비홍 시리즈가 이 곡을 주제 음악으로 쓰면서 장군령은 황비홍을 상징하는 곡조로 굳었고, 같은 황비홍 영화인 취권도 초반부에 이 곡조를 빠른 편곡으로 실은 것으로 알려져 있습니다. 서극과 이연걸의 황비홍은 여기에 황점(黃霑)의 가사를 붙이고 임자상(林子祥)의 목소리를 입혀 남아당자강으로 완성했습니다. 성룡이 부른 버전도 널리 알려져 있습니다. 그러니까 관객이 취권 초반에 들은 그 곡조가 13년 뒤 남아당자강이 된 것입니다. 두 영화가 같은 인물을 그리고 있다는 사실을, 음악이 먼저 말해주고 있었던 셈입니다.
+
 한쪽은 술에 취해 비틀거리며 웃음을 주는 청년, 다른 한쪽은 시대의 무게를 짊어진 민족 영웅입니다. 성룡 자신도 1994년 《취권 2》로 황비홍에게 한 번 더 돌아오지만, 두 배우가 그린 상은 좀처럼 겹치지 않습니다. 같은 이름, 같은 실존 인물인데 이렇게 멀 수 있습니다.
 
 ## 자주 뒤섞이는 이름, 엽문
@@ -69,6 +71,6 @@ author: "Thibault (Claude)"
 - 실존 황비홍: [Wikipedia](https://en.wikipedia.org/wiki/Wong_Fei-hung) · 스크린 속 황비홍의 역사 [The Criterion Collection](https://www.criterion.com/current/posts/7605-life-of-a-legend-a-brief-history-of-wong-fei-hung-on-screen)
 - 《취권》(1978): [Wikipedia](https://en.wikipedia.org/wiki/Drunken_Master) · 《사형도수》(1978): [Wikipedia](https://en.wikipedia.org/wiki/Snake_in_the_Eagle%27s_Shadow)
 - 관덕흥의 황비홍 영화들: [South China Morning Post](https://www.scmp.com/lifestyle/entertainment/article/3103933/jet-li-actor-played-wong-fei-hung-80-films-and-made-martial)
-- 《황비홍》(Once Upon a Time in China, 1991)과 주제가: [Wikipedia](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_China)
+- 《황비홍》(Once Upon a Time in China, 1991)과 주제가: [Wikipedia](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_China) · 장군령에서 남아당자강까지 곡조 계보: [Ethnomusicology Review](https://ethnomusicologyreview.ucla.edu/journal/volume/19/piece/793)
 - 엽문과 이소룡: [Wikipedia](https://en.wikipedia.org/wiki/Ip_Man)
 - 이미지: 황비홍 기념관 좌상 · 보지림 재현 전시 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Wong_Fei-hung_Memorial_Hall) (CC BY-SA 4.0) · 성룡 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jackie_Chan_July_2016.jpg) (CC BY-SA 2.0) · 이연걸 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jet_Li_2009_(cropped).jpg) (CC BY 2.0)

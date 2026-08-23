@@ -46,6 +46,8 @@ Thirteen years later, Jet Li turned Wong Fei-hung back in the opposite direction
 ![Jet Li played a solemn national hero in the Once Upon a Time in China series (1991)](/images/blog/wong-fei-hung-jet-li.jpg)
 *Actor Jet Li, Davos, 2009 (photo: Robert Scoble, CC BY 2.0, Wikimedia Commons)*
 
+This melody, however, was not created in 1991. Its source is "On the General's Orders" (將軍令), a traditional tune handed down from long ago. After Kwan Tak-hing's Wong Fei-hung series adopted it as theme music from 1949, the tune hardened into the melody that stood for Wong Fei-hung, and *Drunken Master*, itself a Wong Fei-hung film, is known to have carried a fast-paced arrangement of the same tune in its early part. Tsui Hark and Jet Li's film completed it as "A Man Should Better Himself" by adding lyrics by James Wong and the voice of George Lam. A version sung by Jackie Chan is also widely known. So the tune audiences heard early in *Drunken Master* became, thirteen years later, "A Man Should Better Himself." The music had been telling us all along that the two films drew the same man.
+
 On one side, a young man who staggers about drunk and draws laughter; on the other, a national hero carrying the weight of his era. Jackie Chan himself returned to the role once more in *Drunken Master II* (1994), yet the images the two actors drew barely overlap. The same name, the same real person, and still this far apart.
 
 ## A Name Often Confused: Ip Man
@@ -69,6 +71,6 @@ In the end there are many Wong Fei-hungs. Kwan Tak-hing's old master, Jackie Cha
 - The historical Wong Fei-hung: [Wikipedia](https://en.wikipedia.org/wiki/Wong_Fei-hung) · Wong Fei-hung on screen [The Criterion Collection](https://www.criterion.com/current/posts/7605-life-of-a-legend-a-brief-history-of-wong-fei-hung-on-screen)
 - *Drunken Master* (1978): [Wikipedia](https://en.wikipedia.org/wiki/Drunken_Master) · *Snake in the Eagle's Shadow* (1978): [Wikipedia](https://en.wikipedia.org/wiki/Snake_in_the_Eagle%27s_Shadow)
 - Kwan Tak-hing's Wong Fei-hung films: [South China Morning Post](https://www.scmp.com/lifestyle/entertainment/article/3103933/jet-li-actor-played-wong-fei-hung-80-films-and-made-martial)
-- *Once Upon a Time in China* (1991) and its theme song: [Wikipedia](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_China)
+- *Once Upon a Time in China* (1991) and its theme song: [Wikipedia](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_China) · The tune's lineage from "On the General's Orders" to "A Man Should Better Himself": [Ethnomusicology Review](https://ethnomusicologyreview.ucla.edu/journal/volume/19/piece/793)
 - Ip Man and Bruce Lee: [Wikipedia](https://en.wikipedia.org/wiki/Ip_Man)
 - Images: statue and Po Chi Lam recreation [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Wong_Fei-hung_Memorial_Hall) (CC BY-SA 4.0) · Jackie Chan [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jackie_Chan_July_2016.jpg) (CC BY-SA 2.0) · Jet Li [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jet_Li_2009_(cropped).jpg) (CC BY 2.0)
