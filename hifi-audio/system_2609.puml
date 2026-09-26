@@ -44,6 +44,11 @@ speaker : Isolator: IsoAcoustics GAIA I
 
 object "[Network Streamer] LHY RPI" as streamer
 streamer : Made by: LHY
+streamer : Power: PAD Museus Powercord
+
+object "[CD Transport] PL200T" as cdt
+cdt : Made by: SMSL
+cdt : Power: Stock Powercord
 
 object "[Roon Core] Mac Mini" as macmini
 
@@ -102,6 +107,7 @@ linear2 ..> fiberhub1: Xangsane DC-Cable (5V)
 linear2 ..> fiberhub2: Xangsane DC-Cable (5V)
 
 streamer --> dac: 10hz Audio USB Cable
+cdt --> dac: AES/EBU Cable
 
 walllansocket --|> fiberhub1: AIM NA5 LAN Cable
 fiberhub1 --|> fiberhub2: Fiber Optic Cable
@@ -109,6 +115,6 @@ fiberhub2 --|> netswitch: AIM NA5 LAN Cable
 netswitch --|> macmini: Audioquest Forest LAN Cable
 netswitch --|> fiberhub3: CAT7 LAN Cable
 fiberhub3 --|> fiberhub4: Fiber Optic Cable
-fiberhub4 --|> dac: AIM NA5 LAN Cable
+fiberhub4 --|> streamer: AIM NA5 LAN Cable
 
 @enduml
