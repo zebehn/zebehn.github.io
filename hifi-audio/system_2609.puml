@@ -1,0 +1,114 @@
+@startuml minsu-hifi-2609v1
+
+object "[DAC] DAC8 Stereo" as dac
+dac : Made by: Okto
+dac : Accessory: Centum 9 Resonator by HIFIStay
+dac : Isolator: IsoAcoustics OREA Bronze
+dac : Board: Finale by Reference Club
+
+object "[Turntable] Performance DC" as turntable
+turntable : Made by: clearaudio
+turntable : Tornarm: Clarify
+turntable : Cartridge: Hana-EL
+turntable : Isolator: IsoAcoustics GAIA II
+turntable : Board: Finale by Reference Club
+
+object "[Preamp] BHK Reference" as preamp
+preamp : Made by: PS Audio
+preamp : Isolator: IsoAcoustics OREA Indigo
+preamp : Board: Finale by Reference Club
+
+object "[Poweramp] T9.3" as poweramp
+poweramp : Made by: Transaudio
+poweramp : Isolator: IsoAcoustics OREA Bordeaux
+poweramp : Board: Finale by Reference Club
+
+object "[Phonoamp] BNK-1003" as phononamp
+phononamp : Made by: BAKOON
+
+object "LT3042 Battery Power Supply" as batteryps
+batteryps : Made by: LHY Audio
+
+object "Linear Power Supply(5V)" as linear1
+linear1 : Made by: LHY
+
+object "Linear Power Supply(5V)" as linear2
+linear2 : Made by: LHY
+
+object "[Battery] Zendure" as battery
+battery : Made by: Zendure
+
+object "[Speaker] PureSystem MK2" as speaker
+speaker : Made by: AudioMachina
+speaker : Isolator: IsoAcoustics GAIA I
+
+object "[Network Streamer] LHY RPI" as streamer
+streamer : Made by: LHY
+
+object "[Roon Core] Mac Mini" as macmini
+
+object "[MultiTap] Lunex SE" as multitap1
+multitap1 : Made by: Reference Club
+
+object "[MultiTap] Lunex" as multitap2
+multitap2 : Made by: Reference Club
+
+object "Stellar PowerPlant 3" as powerregenerator
+powerregenerator : Made by: PS Audio
+powerregenerator : Isolator: IsoAcoustics OREA Indigo
+
+object "Wall PowerSocket" as wallpowersocket
+object "Wall Ethernet Socket" as walllansocket
+
+object "Network Switch" as netswitch
+netswitch : Made by: LHY
+
+object "Gigabit Media Converter SFP Transceiver" as fiberhub1
+fiberhub1 : Made by: Seven Layer
+
+object "Gigabit Media Converter SFP Transceiver" as fiberhub2
+fiberhub2 : Made by: Seven Layer
+
+object "Gigabit Media Converter SFP Transceiver" as fiberhub3
+fiberhub3 : Made by: Seven Layer
+
+object "Gigabit Media Converter SFP Transceiver" as fiberhub4
+fiberhub4 : Made by: Seven Layer
+
+dac --> preamp : Nordost Valhalla 1 XLR (1m)
+preamp --> poweramp : Nordost Frey 2 XLR (1m)
+poweramp --> speaker : Nordost Frey Speaker Cable(2m)
+phononamp --> preamp : Nordost Frey 2 RCA (1m)
+turntable --> phononamp: Clearaudio Clarify RCA (1m)
+
+wallpowersocket ..> multitap1: Golden Strada PS#308
+multitap1 ..> powerregenerator: Allnic ZL500MK2 Powercord
+powerregenerator ..> preamp: Allnic ZL5000 Powercord
+multitap1 ..> poweramp: Detente Powercord
+powerregenerator ..> dac : Nordost Valhalla2 Powercord (2m)
+
+wallpowersocket ..> multitap2: Trinity Mk II
+multitap2 ..> linear1: Bundle Powercord
+multitap2 ..> linear2: Bundle Powercord
+linear1 ..> fiberhub3: Xangsane DC-Cable (5V)
+linear1 ..> fiberhub4: Xangsane DC-Cable (5V)
+multitap2 ..> macmini: SoulAudio Powercord
+
+batteryps ..> turntable: Xangsane DC-Cable
+multitap1 ..> speaker: Odin Fake Powercord x2 (2m)
+battery ..> phononamp: Xangsane DC-Cable
+multitap2 ..> netswitch: Yuseongwoon Powercord
+linear2 ..> fiberhub1: Xangsane DC-Cable (5V)
+linear2 ..> fiberhub2: Xangsane DC-Cable (5V)
+
+streamer --> dac: 10hz Audio USB Cable
+
+walllansocket --|> fiberhub1: AIM NA5 LAN Cable
+fiberhub1 --|> fiberhub2: Fiber Optic Cable
+fiberhub2 --|> netswitch: AIM NA5 LAN Cable
+netswitch --|> macmini: Audioquest Forest LAN Cable
+netswitch --|> fiberhub3: CAT7 LAN Cable
+fiberhub3 --|> fiberhub4: Fiber Optic Cable
+fiberhub4 --|> dac: AIM NA5 LAN Cable
+
+@enduml

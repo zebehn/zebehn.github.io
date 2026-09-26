@@ -5,6 +5,10 @@ showtoc: false
 hideMeta: true
 ---
 
+## 2026-09
+
+![오디오 시스템](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/zebehn/zebehn.github.io/main/hifi-audio/system_2609.puml)
+
 ## 2026-03-06
 
 ![오디오 시스템](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/zebehn/zebehn.github.io/main/hifi-audio/system_260306.puml)
