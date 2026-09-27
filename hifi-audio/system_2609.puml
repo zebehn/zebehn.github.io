@@ -107,7 +107,7 @@ linear2 ..> fiberhub1: Xangsane DC-Cable (5V)
 linear2 ..> fiberhub2: Xangsane DC-Cable (5V)
 
 streamer --> dac: 10hz Audio USB Cable
-cdt --> dac: AES/EBU Cable
+cdt --> dac: Canare AES/EBU Cable (Neutrik XLR)
 
 walllansocket --|> fiberhub1: AIM NA5 LAN Cable
 fiberhub1 --|> fiberhub2: Fiber Optic Cable
