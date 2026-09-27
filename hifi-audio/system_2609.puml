@@ -44,7 +44,6 @@ speaker : Isolator: IsoAcoustics GAIA I
 
 object "[Network Streamer] LHY RPI" as streamer
 streamer : Made by: LHY
-streamer : Power: PAD Museus Powercord
 
 object "[CD Transport] PL200T" as cdt
 cdt : Made by: SMSL
@@ -91,6 +90,7 @@ multitap1 ..> powerregenerator: Allnic ZL500MK2 Powercord
 powerregenerator ..> preamp: Allnic ZL5000 Powercord
 multitap1 ..> poweramp: Detente Powercord
 powerregenerator ..> dac : Nordost Valhalla2 Powercord (2m)
+powerregenerator ..> streamer: PAD Museus Powercord
 
 wallpowersocket ..> multitap2: Trinity Mk II
 multitap2 ..> linear1: Bundle Powercord
