@@ -62,6 +62,7 @@ Social Human-Robot Interaction, Robot Software Framework, Foundation Models for 
 
 ### International Conferences (+ arXiv preprints)
 
+1. Jang, Minsu, Jae-Woo Choi, Youngwoo Yoon, and Dohyung Kim. "VLA Policies Do Not Know When Not to Act: Unintended Task Execution and Start Suppression." arXiv preprint arXiv:2610.41609 (2026). [[arxiv](https://arxiv.org/abs/2610.41609)]
 1. Bransky, Karla, Penny Sweetser, Patrick Holthaus, Guy Laban, Katie Winkle, Neziha Akalin, Ashita Ashok, Jihye Lee, Rucha Khot, Alexandra Bejarano, Jorrit Thijn, Roger K. Moore, Minsu Jang, Joel E. Fischer, and Minha Lee. "Designing Artificial Identity: The Identity Design Framework and Research Agenda." In *ACM DIS 2026*, pp. 4330-4347.
 1. Kim, Hyungmin, Hobeom Jeon, Dohyung Kim, Minsu Jang, and Jaehong Kim. "SPOC: Safety-Aware Planning Under Partial Observability And Physical Constraints." In *ICASSP 2026*, pp. 20097-20101. [[arxiv](https://arxiv.org/abs/2602.21595)]
 1. Choi, Jae-Woo, Hyungmin Kim, Hyobin Ong, Youngwoo Yoon, Minsu Jang, Dohyung Kim, and Jaehong Kim. "ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning." In *AAMAS 2026*. arXiv:2511.02424. [[arxiv](https://arxiv.org/abs/2511.02424)]
