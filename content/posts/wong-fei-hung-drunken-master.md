@@ -1,5 +1,5 @@
 ---
-title: "One Real Man Behind Jackie Chan's Prankster and Jet Li's National Hero"
+title: "The Hero of Drunken Master Was Wong Fei-hung?!"
 date: 2026-08-23T21:10:00+09:00
 draft: false
 tags: ["film", "Wong Fei-hung", "Hong Kong cinema", "Jackie Chan", "Jet Li"]
